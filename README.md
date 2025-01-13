@@ -1,36 +1,50 @@
 # About Learning Technical Diary
 
-Chào mừng bạn đến với nhật ký tự học các kỹ thuật IT của tôi!
+Self-study diary of IT techniques of a 3rd year student of information technology university
 
-## Giới thiệu
+## Introduction  
 
-Repository này được tạo ra với mục đích ghi lại hành trình tự học và khám phá các kiến thức, kỹ năng trong lĩnh vực Công nghệ Thông tin (CNTT/IT) của tôi. Nó đóng vai trò như một cuốn nhật ký số, nơi tôi lưu trữ những ghi chú, bài thực hành, dự án nhỏ, và những bài học kinh nghiệm rút ra trong quá trình học tập.
+This repository was created to record my journey of self-study and discovery of knowledge and skills in the field of Information Technology, especially in the field of Computer Networks and Communications.
 
-## Mục tiêu
+It acts as a digital diary, where I store notes, practice exercises, small projects, and lessons learned during the process of learning and researching.
 
-*   **Lưu trữ kiến thức:** Ghi lại những kiến thức đã học một cách có hệ thống, giúp tôi dễ dàng ôn tập và tra cứu lại khi cần.
-*   **Theo dõi tiến độ:** Giúp tôi theo dõi tiến độ học tập, nhận biết những điểm mạnh và điểm cần cải thiện.
-*   **Chia sẻ và học hỏi:** Hy vọng những nội dung trong repository này có thể hữu ích cho những người khác cũng đang trên con đường tự học IT. Tôi cũng rất mong nhận được những góp ý, phản hồi từ cộng đồng để cùng nhau tiến bộ.
- 
-## Nội dung
+## Objectives
 
-Repository này bao gồm các thư mục được tổ chức theo từng chủ đề hoặc công nghệ mà tôi đang học. Trong mỗi thư mục, bạn có thể tìm thấy:
+* **Knowledge storage:** Record the knowledge I have learned in a systematic way, helping me to easily review and look up when needed.
 
-*   **Ghi chú:** Các tóm tắt lý thuyết, khái niệm, cú pháp, và những điểm quan trọng.
-*   **Bài thực hành:** Các ví dụ minh họa, bài tập thực hành để áp dụng kiến thức vào thực tế.
-*   **Dự án nhỏ:** Các dự án cá nhân để rèn luyện kỹ năng và xây dựng portfolio.
-*   **Bài học kinh nghiệm:** Những bài học, kinh nghiệm tôi rút ra trong quá trình học tập và làm việc.
+* **Progress tracking:** Helps me track my learning progress, identify my strengths and areas for improvement.
 
-*(Lưu ý: Repository này không liệt kê cụ thể tất cả các công nghệ được đề cập. Nội dung sẽ được cập nhật liên tục theo quá trình học tập của tôi.)*
 
-## Cách sử dụng
+## Diary Structure
 
-Bạn có thể tự do sao chép (clone) repository này về máy tính của mình để tham khảo. Nếu bạn có bất kỳ câu hỏi, góp ý, hoặc muốn đóng góp, xin vui lòng tạo một issue hoặc pull request.
+This repository includes folders organized by topic or technology that I am learning. In each folder, you can find:
 
-## Liên hệ
+* **Notes:** Summary of theory, concepts, syntax, and important points. It is written in **Markdown syntax**
 
-Bạn có thể liên hệ với tôi qua [địa chỉ email/mạng xã hội của bạn - tùy chọn].
+* **Practice:** Illustrative examples, practice exercises to apply knowledge into practice.
+
+* **Lessons learned:** Lessons and experiences I have drawn from my study and work.
+
+*(Note: This repository does not specifically list all the technologies mentioned. The content will be continuously updated according to my study process.)*\
+
+## How to work?
+
+When there is any change in the directory or file, it needs to be added immediately, then use the syntax ***git commit -m "(corresponding technology): any changes***
+
+## How to use?
+
+Because this repository is created for private purposes, it is not shared with anyone. If you are someone I trust very much, you will obviously be invited to be a collaborator for this repository, then the usage will be as follows:
+
+- Clone this repo to your local machine using the following command (Note that you need to install git tool to do this):
+
+```
+git clone https://github.com/andreafletcherdinh/technical-learning-diary
+```
+
+## Contact
+
+You can contact me via my email: giabaoctg@gmail.com
 
 ---
 
-*Cập nhật lần cuối: [Ngày cập nhật]*
+*Last updated: Jan 13, 2025
