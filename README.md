@@ -1,4 +1,4 @@
-# learning-technical-diary
+# About Learning Technical Diary
 
 Chào mừng bạn đến với nhật ký tự học các kỹ thuật IT của tôi!
 
