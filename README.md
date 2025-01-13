@@ -25,7 +25,7 @@ This repository includes folders organized by topic or technology that I am lear
 
 * **Lessons learned:** Lessons and experiences I have drawn from my study and work.
 
-*(Note: This repository does not specifically list all the technologies mentioned. The content will be continuously updated according to my study process.)*\
+*(Note: This repository does not specifically list all the technologies mentioned. The content will be continuously updated according to my study process.)*
 
 ## How to work?
 
