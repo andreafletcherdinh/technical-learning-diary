@@ -52,6 +52,9 @@ git pull origin [corresponding branch]
 
 You can contact me via my email: giabaoctg@gmail.com
 
+## Project
+- Linux Archive Log: https://github.com/andreafletcherdinh/technical-learning-diary/blob/main/tools/linux-archive-log/archive-log.py
+
 ---
 
-*Last updated: Jan 14, 2025
+*Last updated: Jan 21, 2025
